@@ -27,7 +27,7 @@
     - Image
     - Info
     - Message
-
+312313333
 # Function for Admin:
 + Login
 + Signup
@@ -69,4 +69,5 @@
                 Name: fried chicken KFC
                 Brand: KFC
                 etc...
+
 
